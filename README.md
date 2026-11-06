@@ -1,26 +1,31 @@
 # Jinlize Education AI
 
-Jinlize Education AI is an independent education-sector AI product system for training and education organizations, principals and institution leaders, frontline teachers, course consultants, academic operations staff, and education-business managers.
+Jinlize Education AI is an independent education-sector AI product system for training and education organizations, principals, teachers, course consultants, academic operations staff, HR staff, finance staff, and multi-campus managers.
 
-This repository is the management and index hub for a planned **1 hub repository + 100 independent product repositories** structure. It records project positioning, product categories, repository indexes, version-management rules, open-source licensing status, contribution rules, and development status.
+The ecosystem contains **100 planned products**: **80 Skills** and **20 Agents**, each managed in an independent repository. All 101 education repositories, including this hub, use **Apache-2.0**.
 
 ## Current status
 
-- Planned product repositories: **100**
-- Planned Skills: **80**
-- Planned Agents: **20**
-- Current product implementation status: **Planned / 待研发**
-- Available Skill or Agent implementations in this ecosystem: **none yet**
+- Product planning: complete
+- Product specifications: 100 independent `PRODUCT_SPEC.md` files
+- Product implementation: **Planned / 待研发**
+- Available production Skills or Agents: **none yet**
+- WorkBuddy status: **PLANNED_FOR_WORKBUDDY**, not installed or reviewed
 
-This repository is a planning and repository-management container. Public repository creation does not mean that a Skill or Agent has been implemented, tested, approved, or published on WorkBuddy or any other platform.
+## Planning documents
+
+- [100-product catalog](CATALOG.md)
+- [Master plan](docs/EDUCATION_PRODUCT_MASTER_PLAN.md)
+- [Product specification matrix](docs/EDUCATION_PRODUCT_SPEC_MATRIX.csv)
+- [Product specification index](docs/PRODUCT_SPEC_INDEX.md)
+- [Four-stage roadmap](docs/EDUCATION_PRODUCT_ROADMAP.md)
+- [WorkBuddy standard](docs/EDUCATION_WORKBUDDY_STANDARD.md)
+- [Deduplication review](docs/EDUCATION_PRODUCT_DEDUPLICATION_REVIEW.md)
+- [Project isolation policy](docs/PROJECT_ISOLATION_POLICY.md)
 
 ## Architecture
 
-The hub repository does not contain product implementations. Each product has an independent repository under the `jinlize-tech` organization. Product repositories currently contain only a minimal placeholder README.
-
-Business sections:
-
-| Code | Section | Planned repositories |
+| Code | Section | Products |
 |---|---|---:|
 | 01 | 招生营销中心 | 15 |
 | 02 | 销售转化中心 | 12 |
@@ -32,29 +37,15 @@ Business sections:
 | 08 | 校区标准化与多校区管理中心 | 13 |
 |  | **合计** | **100** |
 
-## Product index
+## License
 
-- [Human-readable catalog](CATALOG.md)
-- [CSV repository index](REPOSITORY_INDEX.csv)
-- [JSON repository index](REPOSITORY_INDEX.json)
-- [Contribution framework](CONTRIBUTING.md)
-- [Changelog](CHANGELOG.md)
-- [License status](LICENSE_STATUS.md)
+License: Apache-2.0.
 
-## Repository and version rules
+This repository and the 100 independent education product repositories are free and open. Anyone may use, modify, and distribute the material under Apache License 2.0. The complete legal terms are in [LICENSE](LICENSE).
 
-1. The hub repository stores indexes, categories, status records, and governance documents only.
-2. Each product remains independently installable and usable when later implemented; the hub must not become a hidden runtime dependency.
-3. Repository names in this batch are planning identifiers and do not assert that the corresponding function has been delivered.
-4. A product moves out of `Planned / 待研发` only after its own requirements, implementation, tests, audit evidence, and release decision are recorded in that product repository.
-5. Product releases may use semantic versioning after implementation begins, while the hub records the status and links to the product repository; no release is implied at initialization.
-6. No source code, prompt, knowledge base, product archive, or client data is stored in this hub.
-
-## Licensing
-
-Apache-2.0 has been proposed but is not yet approved for adoption. No `LICENSE` file is included in this initialization batch. See [LICENSE_STATUS.md](LICENSE_STATUS.md) for the current boundary.
+The project does not sell official paid SKUs for these 100 products. This commercial policy does not limit any right granted by Apache-2.0, including third-party commercial use or redistribution.
 
 ## Organization
 
-- GitHub organization: [jinlize-tech](https://github.com/jinlize-tech)
-- Hub repository: [education-ai-ecosystem](https://github.com/jinlize-tech/education-ai-ecosystem)
+- [jinlize-tech](https://github.com/jinlize-tech)
+- [education-ai-ecosystem](https://github.com/jinlize-tech/education-ai-ecosystem)

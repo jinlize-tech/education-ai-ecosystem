@@ -1,25 +1,32 @@
 # License Status
 
-## Current decision
+## Decision
 
-- Status: **Pending confirmation**
-- Proposed option: **Apache License 2.0**
-- Approved license: **None**
-- LICENSE file added: **No**
+- License: **Apache License, Version 2.0**
+- SPDX identifier: **Apache-2.0**
+- Official text: https://www.apache.org/licenses/LICENSE-2.0.txt
+- Deployment date: **2026-11-06**
+- Scope: **101 public education repositories**
+- Hub repository: `education-ai-ecosystem`
+- Product repositories: **80 Skill repositories + 20 Agent repositories**
+- Third-party commercial use, modification and redistribution: **permitted by Apache-2.0**
+- Official paid SKUs for these 100 products: **none**
 
-Apache-2.0 has been proposed as a possible free open-source license for future review. It has not been formally approved or adopted for this hub or the 100 planned product repositories.
+## Deployment status
 
-## Current boundary
+| Scope | Planned | Deployed | Blocked |
+|---|---:|---:|---:|
+| Education hub | 1 | 1 | 0 |
+| Skill repositories | 80 | 80 | 0 |
+| Agent repositories | 20 | 20 | 0 |
+| **Total** | **101** | **101** | **0** |
 
-1. Public repository visibility does not by itself grant a project-specific open-source license.
-2. The absence of a `LICENSE` file must not be interpreted as confirmation that a repository is fully open-source licensed.
-3. No other commercial, restrictive, or alternative license has been adopted in this initialization batch.
-4. The project makes no trademark, patent, or third-party asset licensing claim beyond applicable law and platform terms.
-5. A final licensing decision must be recorded before any repository is described as licensed under Apache-2.0 or another approved license.
+Each repository must contain the complete, unmodified Apache-2.0 text in `LICENSE`. A final API verification result is recorded in the project audit evidence outside this repository.
 
-## Required follow-up
+## Legal boundary
 
-- Confirm the license decision.
-- Determine whether the same license applies to the hub and every independent product repository.
-- Review third-party assets, names, examples, and dependencies before licensing.
-- Add the approved `LICENSE` file and update project documentation only after approval.
+1. The complete legal terms in each `LICENSE` file control.
+2. Apache-2.0 permits commercial use and redistribution by third parties.
+3. The project's decision not to sell official paid SKUs must not be interpreted as a restriction on Apache-2.0 rights.
+4. Brand names and logos are not automatically granted as trademarks by Apache-2.0.
+5. The Community AI project is outside this deployment scope and retains its own license without change.
