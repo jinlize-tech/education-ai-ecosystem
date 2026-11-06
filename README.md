@@ -19,6 +19,8 @@ The repositories contain installable WorkBuddy-oriented package candidates. Loca
 
 - [Development status](DEVELOPMENT_STATUS.md)
 - [Release matrix](RELEASE_MATRIX.csv)
+- [Final acceptance report](docs/EDUCATION_100_PRODUCTS_FINAL_ACCEPTANCE_REPORT.md)
+- [Stage acceptance reports](docs/stages)
 
 ## Planning documents
 
