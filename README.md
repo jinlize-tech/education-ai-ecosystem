@@ -49,3 +49,13 @@ The project does not sell official paid SKUs for these 100 products. This commer
 
 - [jinlize-tech](https://github.com/jinlize-tech)
 - [education-ai-ecosystem](https://github.com/jinlize-tech/education-ai-ecosystem)
+
+## Frozen baseline
+
+- Baseline version: `EDUCATION_BASELINE_V1.0.0`
+- Baseline tag: `education-baseline-v1.0.0`
+- [Baseline manifest](BASELINE_MANIFEST.json)
+- [Baseline version](BASELINE_VERSION.md)
+- [Independent baseline audit](docs/EDUCATION_BASELINE_AUDIT.md)
+
+Product implementation work proceeds on development branches after this frozen planning baseline. Specification changes require a new version and audit.
