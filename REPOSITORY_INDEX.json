@@ -1,13 +1,18 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "3.0.0",
   "project": "Jinlize Education AI",
   "owner": "jinlize-tech",
-  "generated_at": "2026-11-06T18:54:06.4832445+08:00",
+  "baseline": "EDUCATION_BASELINE_V1.0.0",
+  "development_version": "1.0.0",
+  "generated_at": "2026-11-06T22:49:56.0028375+08:00",
   "counts": {
     "total": 100,
     "skills": 80,
     "agents": 20,
-    "categories": 8
+    "package_ready": 100,
+    "local_tested": 100,
+    "workbuddy_validated": 0,
+    "release_ready": 0
   },
   "repositories": [
     {
@@ -21,7 +26,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-local-market-research",
       "product_spec_url": "https://github.com/jinlize-tech/edu-local-market-research/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-local-market-research/blob/main/dist/edu-local-market-research-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -35,7 +44,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-enrollment-campaign-planner",
       "product_spec_url": "https://github.com/jinlize-tech/edu-enrollment-campaign-planner/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-enrollment-campaign-planner/blob/main/dist/edu-enrollment-campaign-planner-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -49,7 +62,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-annual-enrollment-planner",
       "product_spec_url": "https://github.com/jinlize-tech/edu-annual-enrollment-planner/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-annual-enrollment-planner/blob/main/dist/edu-annual-enrollment-planner-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -63,7 +80,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-xiaohongshu-copywriter",
       "product_spec_url": "https://github.com/jinlize-tech/edu-xiaohongshu-copywriter/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-xiaohongshu-copywriter/blob/main/dist/edu-xiaohongshu-copywriter-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -77,7 +98,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-moments-copywriter",
       "product_spec_url": "https://github.com/jinlize-tech/edu-moments-copywriter/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-moments-copywriter/blob/main/dist/edu-moments-copywriter-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -91,7 +116,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-short-video-script",
       "product_spec_url": "https://github.com/jinlize-tech/edu-short-video-script/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-short-video-script/blob/main/dist/edu-short-video-script-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -105,7 +134,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-livestream-script",
       "product_spec_url": "https://github.com/jinlize-tech/edu-livestream-script/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-livestream-script/blob/main/dist/edu-livestream-script-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -119,7 +152,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-enrollment-poster-copy",
       "product_spec_url": "https://github.com/jinlize-tech/edu-enrollment-poster-copy/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-enrollment-poster-copy/blob/main/dist/edu-enrollment-poster-copy-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -133,7 +170,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-referral-campaign-planner",
       "product_spec_url": "https://github.com/jinlize-tech/edu-referral-campaign-planner/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-referral-campaign-planner/blob/main/dist/edu-referral-campaign-planner-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -147,7 +188,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-community-partnership-proposal",
       "product_spec_url": "https://github.com/jinlize-tech/edu-community-partnership-proposal/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-community-partnership-proposal/blob/main/dist/edu-community-partnership-proposal-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -161,7 +206,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-lead-form-designer",
       "product_spec_url": "https://github.com/jinlize-tech/edu-lead-form-designer/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-lead-form-designer/blob/main/dist/edu-lead-form-designer-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -175,7 +224,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-enrollment-budget-calculator",
       "product_spec_url": "https://github.com/jinlize-tech/edu-enrollment-budget-calculator/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-enrollment-budget-calculator/blob/main/dist/edu-enrollment-budget-calculator-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -189,7 +242,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-campus-enrollment-growth-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-campus-enrollment-growth-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-campus-enrollment-growth-agent/blob/main/dist/edu-campus-enrollment-growth-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -203,7 +260,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-content-marketing-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-content-marketing-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-content-marketing-agent/blob/main/dist/edu-content-marketing-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -217,7 +278,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-community-channel-development-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-community-channel-development-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-community-channel-development-agent/blob/main/dist/edu-community-channel-development-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -231,7 +296,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-lead-segmentation",
       "product_spec_url": "https://github.com/jinlize-tech/edu-lead-segmentation/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-lead-segmentation/blob/main/dist/edu-lead-segmentation-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -245,7 +314,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-first-consultation-script",
       "product_spec_url": "https://github.com/jinlize-tech/edu-first-consultation-script/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-first-consultation-script/blob/main/dist/edu-first-consultation-script-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -259,7 +332,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-parent-needs-diagnosis",
       "product_spec_url": "https://github.com/jinlize-tech/edu-parent-needs-diagnosis/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-parent-needs-diagnosis/blob/main/dist/edu-parent-needs-diagnosis-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -273,7 +350,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-follow-up-plan-generator",
       "product_spec_url": "https://github.com/jinlize-tech/edu-follow-up-plan-generator/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-follow-up-plan-generator/blob/main/dist/edu-follow-up-plan-generator-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -287,7 +368,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-trial-class-invitation",
       "product_spec_url": "https://github.com/jinlize-tech/edu-trial-class-invitation/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-trial-class-invitation/blob/main/dist/edu-trial-class-invitation-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -301,7 +386,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-trial-class-observation",
       "product_spec_url": "https://github.com/jinlize-tech/edu-trial-class-observation/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-trial-class-observation/blob/main/dist/edu-trial-class-observation-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -315,7 +404,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-objection-response-classifier",
       "product_spec_url": "https://github.com/jinlize-tech/edu-objection-response-classifier/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-objection-response-classifier/blob/main/dist/edu-objection-response-classifier-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -329,7 +422,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-dormant-lead-reactivation",
       "product_spec_url": "https://github.com/jinlize-tech/edu-dormant-lead-reactivation/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-dormant-lead-reactivation/blob/main/dist/edu-dormant-lead-reactivation-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -343,7 +440,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-enrollment-conversion-calculator",
       "product_spec_url": "https://github.com/jinlize-tech/edu-enrollment-conversion-calculator/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-enrollment-conversion-calculator/blob/main/dist/edu-enrollment-conversion-calculator-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -357,7 +458,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-lead-response-routing-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-lead-response-routing-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-lead-response-routing-agent/blob/main/dist/edu-lead-response-routing-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -371,7 +476,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-trial-conversion-review-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-trial-conversion-review-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-trial-conversion-review-agent/blob/main/dist/edu-trial-conversion-review-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -385,7 +494,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-renewal-churn-risk-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-renewal-churn-risk-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-renewal-churn-risk-agent/blob/main/dist/edu-renewal-churn-risk-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -399,7 +512,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-curriculum-standards-alignment",
       "product_spec_url": "https://github.com/jinlize-tech/edu-curriculum-standards-alignment/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-curriculum-standards-alignment/blob/main/dist/edu-curriculum-standards-alignment-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -413,7 +530,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-lesson-objective-decomposer",
       "product_spec_url": "https://github.com/jinlize-tech/edu-lesson-objective-decomposer/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-lesson-objective-decomposer/blob/main/dist/edu-lesson-objective-decomposer-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -427,7 +548,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-lesson-plan-generator",
       "product_spec_url": "https://github.com/jinlize-tech/edu-lesson-plan-generator/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-lesson-plan-generator/blob/main/dist/edu-lesson-plan-generator-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -441,7 +566,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-classroom-activity-designer",
       "product_spec_url": "https://github.com/jinlize-tech/edu-classroom-activity-designer/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-classroom-activity-designer/blob/main/dist/edu-classroom-activity-designer-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -455,7 +584,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-differentiated-instruction-task",
       "product_spec_url": "https://github.com/jinlize-tech/edu-differentiated-instruction-task/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-differentiated-instruction-task/blob/main/dist/edu-differentiated-instruction-task-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -469,7 +602,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-differentiated-homework-generator",
       "product_spec_url": "https://github.com/jinlize-tech/edu-differentiated-homework-generator/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-differentiated-homework-generator/blob/main/dist/edu-differentiated-homework-generator-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -483,7 +620,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-in-class-exercise-generator",
       "product_spec_url": "https://github.com/jinlize-tech/edu-in-class-exercise-generator/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-in-class-exercise-generator/blob/main/dist/edu-in-class-exercise-generator-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -497,7 +638,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-unit-assessment-generator",
       "product_spec_url": "https://github.com/jinlize-tech/edu-unit-assessment-generator/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-unit-assessment-generator/blob/main/dist/edu-unit-assessment-generator-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -511,7 +656,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-exam-paper-generator",
       "product_spec_url": "https://github.com/jinlize-tech/edu-exam-paper-generator/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-exam-paper-generator/blob/main/dist/edu-exam-paper-generator-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -525,7 +674,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-question-difficulty-tagger",
       "product_spec_url": "https://github.com/jinlize-tech/edu-question-difficulty-tagger/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-question-difficulty-tagger/blob/main/dist/edu-question-difficulty-tagger-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -539,7 +692,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-error-cause-analyzer",
       "product_spec_url": "https://github.com/jinlize-tech/edu-error-cause-analyzer/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-error-cause-analyzer/blob/main/dist/edu-error-cause-analyzer-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -553,7 +710,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-student-learning-analysis",
       "product_spec_url": "https://github.com/jinlize-tech/edu-student-learning-analysis/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-student-learning-analysis/blob/main/dist/edu-student-learning-analysis-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -567,7 +728,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-classroom-observation-rubric",
       "product_spec_url": "https://github.com/jinlize-tech/edu-classroom-observation-rubric/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-classroom-observation-rubric/blob/main/dist/edu-classroom-observation-rubric-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -581,7 +746,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-teaching-reflection-assistant",
       "product_spec_url": "https://github.com/jinlize-tech/edu-teaching-reflection-assistant/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-teaching-reflection-assistant/blob/main/dist/edu-teaching-reflection-assistant-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -595,7 +764,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-primary-math-research-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-primary-math-research-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-primary-math-research-agent/blob/main/dist/edu-primary-math-research-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -609,7 +782,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-primary-chinese-research-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-primary-chinese-research-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-primary-chinese-research-agent/blob/main/dist/edu-primary-chinese-research-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -623,7 +800,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-primary-english-research-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-primary-english-research-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-primary-english-research-agent/blob/main/dist/edu-primary-english-research-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -637,7 +818,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-curriculum-development-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-curriculum-development-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-curriculum-development-agent/blob/main/dist/edu-curriculum-development-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -651,7 +836,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-smart-timetable-planner",
       "product_spec_url": "https://github.com/jinlize-tech/edu-smart-timetable-planner/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-smart-timetable-planner/blob/main/dist/edu-smart-timetable-planner-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -665,7 +854,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-classroom-resource-scheduler",
       "product_spec_url": "https://github.com/jinlize-tech/edu-classroom-resource-scheduler/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-classroom-resource-scheduler/blob/main/dist/edu-classroom-resource-scheduler-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -679,7 +872,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-teacher-hours-calculator",
       "product_spec_url": "https://github.com/jinlize-tech/edu-teacher-hours-calculator/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-teacher-hours-calculator/blob/main/dist/edu-teacher-hours-calculator-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -693,7 +890,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-attendance-exception-handler",
       "product_spec_url": "https://github.com/jinlize-tech/edu-attendance-exception-handler/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-attendance-exception-handler/blob/main/dist/edu-attendance-exception-handler-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -707,7 +908,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-class-change-makeup-register",
       "product_spec_url": "https://github.com/jinlize-tech/edu-class-change-makeup-register/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-class-change-makeup-register/blob/main/dist/edu-class-change-makeup-register-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -721,7 +926,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-substitute-teacher-arranger",
       "product_spec_url": "https://github.com/jinlize-tech/edu-substitute-teacher-arranger/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-substitute-teacher-arranger/blob/main/dist/edu-substitute-teacher-arranger-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -735,7 +944,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-student-roster-manager",
       "product_spec_url": "https://github.com/jinlize-tech/edu-student-roster-manager/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-student-roster-manager/blob/main/dist/edu-student-roster-manager-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -749,7 +962,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-learning-progress-tracker",
       "product_spec_url": "https://github.com/jinlize-tech/edu-learning-progress-tracker/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-learning-progress-tracker/blob/main/dist/edu-learning-progress-tracker-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -763,7 +980,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-semester-calendar-builder",
       "product_spec_url": "https://github.com/jinlize-tech/edu-semester-calendar-builder/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-semester-calendar-builder/blob/main/dist/edu-semester-calendar-builder-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -777,7 +998,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-academic-handover-checklist",
       "product_spec_url": "https://github.com/jinlize-tech/edu-academic-handover-checklist/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-academic-handover-checklist/blob/main/dist/edu-academic-handover-checklist-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -791,7 +1016,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-academic-operations-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-academic-operations-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-academic-operations-agent/blob/main/dist/edu-academic-operations-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -805,7 +1034,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-timetable-conflict-diagnosis-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-timetable-conflict-diagnosis-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-timetable-conflict-diagnosis-agent/blob/main/dist/edu-timetable-conflict-diagnosis-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -819,7 +1052,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-parent-school-notification",
       "product_spec_url": "https://github.com/jinlize-tech/edu-parent-school-notification/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-parent-school-notification/blob/main/dist/edu-parent-school-notification-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -833,7 +1070,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-student-growth-weekly-report",
       "product_spec_url": "https://github.com/jinlize-tech/edu-student-growth-weekly-report/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-student-growth-weekly-report/blob/main/dist/edu-student-growth-weekly-report-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -847,7 +1088,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-parent-meeting-planner",
       "product_spec_url": "https://github.com/jinlize-tech/edu-parent-meeting-planner/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-parent-meeting-planner/blob/main/dist/edu-parent-meeting-planner-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -861,7 +1106,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-parent-satisfaction-survey",
       "product_spec_url": "https://github.com/jinlize-tech/edu-parent-satisfaction-survey/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-parent-satisfaction-survey/blob/main/dist/edu-parent-satisfaction-survey-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -875,7 +1124,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-complaint-classifier",
       "product_spec_url": "https://github.com/jinlize-tech/edu-complaint-classifier/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-complaint-classifier/blob/main/dist/edu-complaint-classifier-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -889,7 +1142,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-complaint-response-drafter",
       "product_spec_url": "https://github.com/jinlize-tech/edu-complaint-response-drafter/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-complaint-response-drafter/blob/main/dist/edu-complaint-response-drafter-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -903,7 +1160,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-home-learning-task-designer",
       "product_spec_url": "https://github.com/jinlize-tech/edu-home-learning-task-designer/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-home-learning-task-designer/blob/main/dist/edu-home-learning-task-designer-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -917,7 +1178,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-referral-communication-copy",
       "product_spec_url": "https://github.com/jinlize-tech/edu-referral-communication-copy/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-referral-communication-copy/blob/main/dist/edu-referral-communication-copy-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -931,7 +1196,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-parent-school-communication-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-parent-school-communication-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-parent-school-communication-agent/blob/main/dist/edu-parent-school-communication-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -945,7 +1214,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-parent-complaint-resolution-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-parent-complaint-resolution-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-parent-complaint-resolution-agent/blob/main/dist/edu-parent-complaint-resolution-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -959,7 +1232,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-job-description-generator",
       "product_spec_url": "https://github.com/jinlize-tech/edu-job-description-generator/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-job-description-generator/blob/main/dist/edu-job-description-generator-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -973,7 +1250,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-recruitment-plan-generator",
       "product_spec_url": "https://github.com/jinlize-tech/edu-recruitment-plan-generator/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-recruitment-plan-generator/blob/main/dist/edu-recruitment-plan-generator-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -987,7 +1268,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-interview-question-bank",
       "product_spec_url": "https://github.com/jinlize-tech/edu-interview-question-bank/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-interview-question-bank/blob/main/dist/edu-interview-question-bank-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1001,7 +1286,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-interview-evaluation-form",
       "product_spec_url": "https://github.com/jinlize-tech/edu-interview-evaluation-form/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-interview-evaluation-form/blob/main/dist/edu-interview-evaluation-form-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1015,7 +1304,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-employee-onboarding-checklist",
       "product_spec_url": "https://github.com/jinlize-tech/edu-employee-onboarding-checklist/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-employee-onboarding-checklist/blob/main/dist/edu-employee-onboarding-checklist-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1029,7 +1322,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-teacher-training-plan",
       "product_spec_url": "https://github.com/jinlize-tech/edu-teacher-training-plan/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-teacher-training-plan/blob/main/dist/edu-teacher-training-plan-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1043,7 +1340,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-performance-kpi-designer",
       "product_spec_url": "https://github.com/jinlize-tech/edu-performance-kpi-designer/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-performance-kpi-designer/blob/main/dist/edu-performance-kpi-designer-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1057,7 +1358,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-employment-compliance-checker",
       "product_spec_url": "https://github.com/jinlize-tech/edu-employment-compliance-checker/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-employment-compliance-checker/blob/main/dist/edu-employment-compliance-checker-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1071,7 +1376,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-recruitment-management-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-recruitment-management-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-recruitment-management-agent/blob/main/dist/edu-recruitment-management-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1085,7 +1394,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-teacher-development-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-teacher-development-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-teacher-development-agent/blob/main/dist/edu-teacher-development-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1099,7 +1412,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-class-cost-allocation",
       "product_spec_url": "https://github.com/jinlize-tech/edu-class-cost-allocation/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-class-cost-allocation/blob/main/dist/edu-class-cost-allocation-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1113,7 +1430,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-tuition-revenue-ledger",
       "product_spec_url": "https://github.com/jinlize-tech/edu-tuition-revenue-ledger/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-tuition-revenue-ledger/blob/main/dist/edu-tuition-revenue-ledger-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1127,7 +1448,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-accounts-receivable-reconciliation",
       "product_spec_url": "https://github.com/jinlize-tech/edu-accounts-receivable-reconciliation/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-accounts-receivable-reconciliation/blob/main/dist/edu-accounts-receivable-reconciliation-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1141,7 +1466,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-teacher-pay-commission-calculator",
       "product_spec_url": "https://github.com/jinlize-tech/edu-teacher-pay-commission-calculator/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-teacher-pay-commission-calculator/blob/main/dist/edu-teacher-pay-commission-calculator-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1155,7 +1484,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-refund-calculator",
       "product_spec_url": "https://github.com/jinlize-tech/edu-refund-calculator/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-refund-calculator/blob/main/dist/edu-refund-calculator-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1169,7 +1502,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-payment-voucher-checker",
       "product_spec_url": "https://github.com/jinlize-tech/edu-payment-voucher-checker/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-payment-voucher-checker/blob/main/dist/edu-payment-voucher-checker-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1183,7 +1520,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-monthly-close-checklist",
       "product_spec_url": "https://github.com/jinlize-tech/edu-monthly-close-checklist/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-monthly-close-checklist/blob/main/dist/edu-monthly-close-checklist-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1197,7 +1538,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-expense-reimbursement-reviewer",
       "product_spec_url": "https://github.com/jinlize-tech/edu-expense-reimbursement-reviewer/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-expense-reimbursement-reviewer/blob/main/dist/edu-expense-reimbursement-reviewer-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1211,7 +1556,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-finance-analytics-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-finance-analytics-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-finance-analytics-agent/blob/main/dist/edu-finance-analytics-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1225,7 +1574,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-tuition-refund-control-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-tuition-refund-control-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-tuition-refund-control-agent/blob/main/dist/edu-tuition-refund-control-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1239,7 +1592,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-role-responsibility-mapper",
       "product_spec_url": "https://github.com/jinlize-tech/edu-role-responsibility-mapper/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-role-responsibility-mapper/blob/main/dist/edu-role-responsibility-mapper-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1253,7 +1610,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-workflow-process-decomposer",
       "product_spec_url": "https://github.com/jinlize-tech/edu-workflow-process-decomposer/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-workflow-process-decomposer/blob/main/dist/edu-workflow-process-decomposer-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1267,7 +1628,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-sop-implementation-checklist",
       "product_spec_url": "https://github.com/jinlize-tech/edu-sop-implementation-checklist/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-sop-implementation-checklist/blob/main/dist/edu-sop-implementation-checklist-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1281,7 +1646,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-daily-campus-inspection",
       "product_spec_url": "https://github.com/jinlize-tech/edu-daily-campus-inspection/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-daily-campus-inspection/blob/main/dist/edu-daily-campus-inspection-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1295,7 +1664,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-service-quality-audit",
       "product_spec_url": "https://github.com/jinlize-tech/edu-service-quality-audit/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-service-quality-audit/blob/main/dist/edu-service-quality-audit-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1309,7 +1682,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-teaching-service-standard-checker",
       "product_spec_url": "https://github.com/jinlize-tech/edu-teaching-service-standard-checker/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-teaching-service-standard-checker/blob/main/dist/edu-teaching-service-standard-checker-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1323,7 +1700,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-enrollment-service-process-checker",
       "product_spec_url": "https://github.com/jinlize-tech/edu-enrollment-service-process-checker/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-enrollment-service-process-checker/blob/main/dist/edu-enrollment-service-process-checker-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1337,7 +1718,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-academic-handover-audit",
       "product_spec_url": "https://github.com/jinlize-tech/edu-academic-handover-audit/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-academic-handover-audit/blob/main/dist/edu-academic-handover-audit-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1351,7 +1736,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-new-campus-opening-checklist",
       "product_spec_url": "https://github.com/jinlize-tech/edu-new-campus-opening-checklist/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-new-campus-opening-checklist/blob/main/dist/edu-new-campus-opening-checklist-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1365,7 +1754,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-campus-launch-planner",
       "product_spec_url": "https://github.com/jinlize-tech/edu-campus-launch-planner/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-campus-launch-planner/blob/main/dist/edu-campus-launch-planner-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1379,7 +1772,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-multi-campus-standard-comparator",
       "product_spec_url": "https://github.com/jinlize-tech/edu-multi-campus-standard-comparator/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-multi-campus-standard-comparator/blob/main/dist/edu-multi-campus-standard-comparator-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1393,7 +1790,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-campus-standardization-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-campus-standardization-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-campus-standardization-agent/blob/main/dist/edu-campus-standardization-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     },
     {
@@ -1407,7 +1808,11 @@
       "repository_url": "https://github.com/jinlize-tech/edu-multi-campus-operations-agent",
       "product_spec_url": "https://github.com/jinlize-tech/edu-multi-campus-operations-agent/blob/main/PRODUCT_SPEC.md",
       "visibility": "public",
-      "development_status": "Planned / 待研发",
+      "development_version": "1.0.0",
+      "development_status": "PACKAGE_READY",
+      "local_test_status": "PASS",
+      "workbuddy_validation": "NOT_VERIFIED",
+      "package_url": "https://github.com/jinlize-tech/edu-multi-campus-operations-agent/blob/main/dist/edu-multi-campus-operations-agent-v1.0.0.zip",
       "license": "Apache-2.0"
     }
   ]

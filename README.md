@@ -6,11 +6,19 @@ The ecosystem contains **100 planned products**: **80 Skills** and **20 Agents**
 
 ## Current status
 
-- Product planning: complete
-- Product specifications: 100 independent `PRODUCT_SPEC.md` files
-- Product implementation: **Planned / 待研发**
-- Available production Skills or Agents: **none yet**
-- WorkBuddy status: **PLANNED_FOR_WORKBUDDY**, not installed or reviewed
+- Product planning: frozen at `EDUCATION_BASELINE_V1.0.0`
+- Product planning documents: 100 independent `PRODUCT_SPEC.md` files
+- Initial implementation: **100/100 PACKAGE_READY**
+- Local package/contract tests: **100/100 PASS**
+- WorkBuddy platform validation: **0/100, NOT_VERIFIED**
+- Release-ready: **0/100**
+
+The repositories contain installable WorkBuddy-oriented package candidates. Local tests prove package structure, contracts, deterministic calculator behavior where applicable, and safety checks. They do not prove WorkBuddy parsing, installation, model behavior, review, or publication.
+
+## Development
+
+- [Development status](DEVELOPMENT_STATUS.md)
+- [Release matrix](RELEASE_MATRIX.csv)
 
 ## Planning documents
 
@@ -59,3 +67,4 @@ The project does not sell official paid SKUs for these 100 products. This commer
 - [Independent baseline audit](docs/EDUCATION_BASELINE_AUDIT.md)
 
 Product implementation work proceeds on development branches after this frozen planning baseline. Specification changes require a new version and audit.
+
