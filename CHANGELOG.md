@@ -1,5 +1,14 @@
 # Changelog
 
+## Product v1.0.1 G5/G9 Pre-Release - 2026-11-07
+
+- Strengthened all 100 product implementations across their frozen product contracts.
+- Added deterministic structured-input validation and T1-T7 evidence for all products.
+- Fixed ZIP packaging to include Apache-2.0 LICENSE and third-party notices in all 100 packages.
+- Rebuilt and published `product-v1.0.1` packages, manifests, hashes, and test results.
+- Independent local and remote audits: 100/100 PASS.
+- Runtime remains `NOT_RUNTIME_VERIFIED`; WorkBuddy validation remains out of scope.
+- Added `G5_G9_PRE_RELEASE_ACCEPTANCE/` with full product, change, hash, test, and acceptance evidence.
 ## 2026-11-06
 
 - Adopted Apache-2.0 for the education hub and all 100 independent product repositories.
@@ -30,3 +39,4 @@
 - Local package/contract validation: 100 PASS.
 - WorkBuddy real parsing, installation, invocation, review, and publication: not verified.
 - Added the final acceptance report after a fresh 100-repository remote audit.
+

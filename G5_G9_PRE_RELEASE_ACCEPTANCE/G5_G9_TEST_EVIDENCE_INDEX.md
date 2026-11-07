@@ -1,0 +1,110 @@
+# G5/G9 测试证据索引
+
+- 产品数量：100
+- 测试检查总数：7329
+- 确定性计算产品：7
+- 模型运行状态：NOT_RUNTIME_VERIFIED
+
+| 序号 | 产品 | 类型 | 测试检查 | 测试结果 | 测试报告 |
+|---:|---|---|---:|---|---|
+| 1 | JLZ-EDU-SK-001 本地教培市场调研 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-local-market-research/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 2 | JLZ-EDU-SK-002 招生营销活动策划 | Skill | 73 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-enrollment-campaign-planner/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 3 | JLZ-EDU-SK-003 年度招生规划 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-annual-enrollment-planner/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 4 | JLZ-EDU-SK-004 小红书招生文案 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-xiaohongshu-copywriter/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 5 | JLZ-EDU-SK-005 朋友圈招生文案 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-moments-copywriter/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 6 | JLZ-EDU-SK-006 教培短视频脚本 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-short-video-script/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 7 | JLZ-EDU-SK-007 招生直播脚本 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-livestream-script/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 8 | JLZ-EDU-SK-008 招生海报文案 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-enrollment-poster-copy/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 9 | JLZ-EDU-SK-009 老带新活动策划 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-referral-campaign-planner/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 10 | JLZ-EDU-SK-010 异业合作方案 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-community-partnership-proposal/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 11 | JLZ-EDU-SK-011 招生线索表单设计 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-lead-form-designer/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 12 | JLZ-EDU-SK-012 招生预算测算 | Skill | 86 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-enrollment-budget-calculator/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 13 | JLZ-EDU-AG-001 校区招生增长诊断 | Agent | 76 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-campus-enrollment-growth-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 14 | JLZ-EDU-AG-002 内容营销运营 | Agent | 78 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-content-marketing-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 15 | JLZ-EDU-AG-003 社区招生渠道拓展 | Agent | 77 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-community-channel-development-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 16 | JLZ-EDU-SK-013 招生线索分层 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-lead-segmentation/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 17 | JLZ-EDU-SK-014 首次咨询话术 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-first-consultation-script/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 18 | JLZ-EDU-SK-015 家长需求诊断 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-parent-needs-diagnosis/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 19 | JLZ-EDU-SK-016 客户跟进计划 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-follow-up-plan-generator/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 20 | JLZ-EDU-SK-017 试听邀约方案 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-trial-class-invitation/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 21 | JLZ-EDU-SK-018 试听课堂观察 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-trial-class-observation/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 22 | JLZ-EDU-SK-019 家长异议分类 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-objection-response-classifier/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 23 | JLZ-EDU-SK-020 沉睡线索激活 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-dormant-lead-reactivation/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 24 | JLZ-EDU-SK-021 招生转化漏斗计算 | Skill | 81 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-enrollment-conversion-calculator/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 25 | JLZ-EDU-AG-004 线索响应调度 | Agent | 76 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-lead-response-routing-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 26 | JLZ-EDU-AG-005 试听转化复盘 | Agent | 77 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-trial-conversion-review-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 27 | JLZ-EDU-AG-006 续费流失风险预警 | Agent | 77 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-renewal-churn-risk-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 28 | JLZ-EDU-SK-022 课程标准对齐 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-curriculum-standards-alignment/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 29 | JLZ-EDU-SK-023 教学目标分解 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-lesson-objective-decomposer/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 30 | JLZ-EDU-SK-024 教案设计 | Skill | 74 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-lesson-plan-generator/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 31 | JLZ-EDU-SK-025 课堂活动设计 | Skill | 73 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-classroom-activity-designer/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 32 | JLZ-EDU-SK-026 分层教学任务 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-differentiated-instruction-task/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 33 | JLZ-EDU-SK-027 分层作业生成 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-differentiated-homework-generator/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 34 | JLZ-EDU-SK-028 课堂即时练习 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-in-class-exercise-generator/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 35 | JLZ-EDU-SK-029 单元测评设计 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-unit-assessment-generator/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 36 | JLZ-EDU-SK-030 试卷生成 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-exam-paper-generator/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 37 | JLZ-EDU-SK-031 题目知识点与难度标注 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-question-difficulty-tagger/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 38 | JLZ-EDU-SK-032 错因分析 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-error-cause-analyzer/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 39 | JLZ-EDU-SK-033 学情分析 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-student-learning-analysis/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 40 | JLZ-EDU-SK-034 课堂观察量表 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-classroom-observation-rubric/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 41 | JLZ-EDU-SK-035 教学反思助手 | Skill | 70 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-teaching-reflection-assistant/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 42 | JLZ-EDU-AG-007 小学数学教研 | Agent | 77 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-primary-math-research-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 43 | JLZ-EDU-AG-008 小学语文教研 | Agent | 76 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-primary-chinese-research-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 44 | JLZ-EDU-AG-009 小学英语教研 | Agent | 77 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-primary-english-research-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 45 | JLZ-EDU-AG-010 课程体系开发 | Agent | 77 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-curriculum-development-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 46 | JLZ-EDU-SK-036 智能排课 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-smart-timetable-planner/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 47 | JLZ-EDU-SK-037 教室与资源调度 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-classroom-resource-scheduler/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 48 | JLZ-EDU-SK-038 教师课时统计 | Skill | 80 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-teacher-hours-calculator/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 49 | JLZ-EDU-SK-039 考勤异常处理 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-attendance-exception-handler/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 50 | JLZ-EDU-SK-040 调课补课登记 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-class-change-makeup-register/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 51 | JLZ-EDU-SK-041 代课教师安排 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-substitute-teacher-arranger/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 52 | JLZ-EDU-SK-042 学员名册管理 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-student-roster-manager/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 53 | JLZ-EDU-SK-043 学习进度跟踪 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-learning-progress-tracker/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 54 | JLZ-EDU-SK-044 学期教学日历 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-semester-calendar-builder/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 55 | JLZ-EDU-SK-045 教务交接清单 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-academic-handover-checklist/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 56 | JLZ-EDU-AG-011 教务运营助手 | Agent | 77 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-academic-operations-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 57 | JLZ-EDU-AG-012 排课冲突诊断 | Agent | 76 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-timetable-conflict-diagnosis-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 58 | JLZ-EDU-SK-046 家校通知生成 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-parent-school-notification/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 59 | JLZ-EDU-SK-047 学生成长周报 | Skill | 70 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-student-growth-weekly-report/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 60 | JLZ-EDU-SK-048 家长会策划 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-parent-meeting-planner/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 61 | JLZ-EDU-SK-049 家长满意度调查 | Skill | 73 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-parent-satisfaction-survey/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 62 | JLZ-EDU-SK-050 家长投诉分类 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-complaint-classifier/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 63 | JLZ-EDU-SK-051 家长投诉回复 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-complaint-response-drafter/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 64 | JLZ-EDU-SK-052 家庭学习任务设计 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-home-learning-task-designer/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 65 | JLZ-EDU-SK-053 转介绍沟通文案 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-referral-communication-copy/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 66 | JLZ-EDU-AG-013 家校沟通协同 | Agent | 78 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-parent-school-communication-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 67 | JLZ-EDU-AG-014 家长投诉全流程处理 | Agent | 77 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-parent-complaint-resolution-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 68 | JLZ-EDU-SK-054 教培岗位说明书 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-job-description-generator/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 69 | JLZ-EDU-SK-055 招聘计划 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-recruitment-plan-generator/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 70 | JLZ-EDU-SK-056 岗位面试题库 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-interview-question-bank/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 71 | JLZ-EDU-SK-057 面试评价表 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-interview-evaluation-form/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 72 | JLZ-EDU-SK-058 员工入职清单 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-employee-onboarding-checklist/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 73 | JLZ-EDU-SK-059 教师培训计划 | Skill | 73 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-teacher-training-plan/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 74 | JLZ-EDU-SK-060 岗位绩效KPI设计 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-performance-kpi-designer/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 75 | JLZ-EDU-SK-061 劳动用工合规检查 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-employment-compliance-checker/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 76 | JLZ-EDU-AG-015 招聘流程管理 | Agent | 77 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-recruitment-management-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 77 | JLZ-EDU-AG-016 教师能力发展 | Agent | 77 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-teacher-development-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 78 | JLZ-EDU-SK-062 班级成本分摊 | Skill | 81 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-class-cost-allocation/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 79 | JLZ-EDU-SK-063 学费收入台账 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-tuition-revenue-ledger/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 80 | JLZ-EDU-SK-064 应收款核对 | Skill | 80 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-accounts-receivable-reconciliation/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 81 | JLZ-EDU-SK-065 教师薪酬提成计算 | Skill | 80 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-teacher-pay-commission-calculator/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 82 | JLZ-EDU-SK-066 退费测算 | Skill | 80 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-refund-calculator/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 83 | JLZ-EDU-SK-067 付款凭证核对 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-payment-voucher-checker/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 84 | JLZ-EDU-SK-068 月度结账清单 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-monthly-close-checklist/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 85 | JLZ-EDU-SK-069 费用报销审核 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-expense-reimbursement-reviewer/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 86 | JLZ-EDU-AG-017 财务经营分析 | Agent | 77 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-finance-analytics-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 87 | JLZ-EDU-AG-018 学费退费风险管控 | Agent | 77 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-tuition-refund-control-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 88 | JLZ-EDU-SK-070 组织与岗位职责映射 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-role-responsibility-mapper/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 89 | JLZ-EDU-SK-071 工作流程拆解 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-workflow-process-decomposer/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 90 | JLZ-EDU-SK-072 SOP执行检查 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-sop-implementation-checklist/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 91 | JLZ-EDU-SK-073 校区日常巡检 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-daily-campus-inspection/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 92 | JLZ-EDU-SK-074 服务质量检查 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-service-quality-audit/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 93 | JLZ-EDU-SK-075 教学服务标准核查 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-teaching-service-standard-checker/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 94 | JLZ-EDU-SK-076 招生服务流程检查 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-enrollment-service-process-checker/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 95 | JLZ-EDU-SK-077 教务交接审计 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-academic-handover-audit/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 96 | JLZ-EDU-SK-078 新校区开办清单 | Skill | 72 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-new-campus-opening-checklist/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 97 | JLZ-EDU-SK-079 新校区筹建计划 | Skill | 73 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-campus-launch-planner/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 98 | JLZ-EDU-SK-080 多校区标准对比 | Skill | 71 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-multi-campus-standard-comparator/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 99 | JLZ-EDU-AG-019 校区标准化体系建设 | Agent | 77 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-campus-standardization-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+| 100 | JLZ-EDU-AG-020 多校区运营协同 | Agent | 77 | G9_PRE_RELEASE_ACCEPTED | [查看](https://github.com/jinlize-tech/edu-multi-campus-operations-agent/blob/main/tests/TEST_REPORT-v1.0.1.md) |
+
