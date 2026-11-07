@@ -1,5 +1,15 @@
 # Changelog
 
+## G5/G9-R2 Product v1.0.2 - 2026-11-07
+
+- Fixed all 20 Agent profession metadata chains, with 20 distinct approved Chinese professional identities.
+- Fixed SK-012 sensitivity-rate floor and cap handling within 0 to 1 and added explicit boundary cases.
+- Reconciled missing baseline identity fields for all 100 products without rewriting frozen history.
+- Rebuilt all change records from actual commits, diffs, tests, package paths, hashes and validation states.
+- Rebuilt and published all 100 v1.0.2 packages with LICENSE, third-party notices and validation scripts.
+- Independent local and remote audits: 100/100 PASS.
+- Runtime remains MODEL_RUNTIME_NOT_VERIFIED; WorkBuddy remains WORKBUDDY_VALIDATION_NOT_IN_SCOPE.
+
 ## Product v1.0.1 G5/G9 Pre-Release - 2026-11-07
 
 - Strengthened all 100 product implementations across their frozen product contracts.
@@ -39,4 +49,12 @@
 - Local package/contract validation: 100 PASS.
 - WorkBuddy real parsing, installation, invocation, review, and publication: not verified.
 - Added the final acceptance report after a fresh 100-repository remote audit.
+
+
+
+
+
+
+
+
 

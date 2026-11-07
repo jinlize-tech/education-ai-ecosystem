@@ -70,13 +70,13 @@ The project does not sell official paid SKUs for these 100 products. This commer
 
 Product implementation work proceeds on development branches after this frozen planning baseline. Specification changes require a new version and audit.
 
-
 ## Current implementation status
 
-- Current product package version: `1.0.1`
-- G5: `G5_STRENGTHENED` for 100/100 products
-- G9: `G9_PRE_RELEASE_ACCEPTED` for 100/100 products
-- GitHub package state: `GITHUB_PACKAGE_PRE_RELEASE_READY` for 100/100 products
-- Runtime: `NOT_RUNTIME_VERIFIED`
-- WorkBuddy validation: `WORKBUDDY_VALIDATION_NOT_IN_SCOPE`
-- Acceptance evidence: [G5_G9_PRE_RELEASE_ACCEPTANCE](G5_G9_PRE_RELEASE_ACCEPTANCE/G5_G9_FINAL_ACCEPTANCE_REPORT.md)
+- Current product package version: 1.0.2
+- G5: `G5_R2_STRENGTHENED` for 100/100 products
+- G9: `G9_R2_PRE_RELEASE_ACCEPTED` for 100/100 products
+- GitHub package state: GITHUB_PACKAGE_V1.0.2_PRE_RELEASE_READY
+- Agent Chinese profession identities: 20/20
+- Runtime: MODEL_RUNTIME_NOT_VERIFIED
+- WorkBuddy validation: WORKBUDDY_VALIDATION_NOT_IN_SCOPE
+- Acceptance evidence: [G5_G9_R2_1.0.2_FINAL](G5_G9_R2_1.0.2_FINAL/FINAL_ACCEPTANCE_REPORT.md)
