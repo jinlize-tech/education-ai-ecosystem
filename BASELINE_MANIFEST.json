@@ -1656,6 +1656,18 @@
       "final_acceptance_report": "G5_G9_R2_1.0.2_FINAL/FINAL_ACCEPTANCE_REPORT.md",
       "change_manifest": "G5_G9_R2_1.0.2_FINAL/CHANGE_MANIFEST.json",
       "independent_audit_evidence": "G5_G9_R2_1.0.2_FINAL/INDEPENDENT_AUDIT_EVIDENCE.md"
+    },
+    {
+      "implementation_version": "1.1.0",
+      "previous_version": "1.0.2",
+      "implemented_at": "2026-11-08T14:09:23.8392485+08:00",
+      "status": "EDUCATION_1.1.0_PRE_RELEASE_ACCEPTED",
+      "product_count": 100,
+      "skill_count": 80,
+      "agent_count": 20,
+      "delivery_directory": "EDUCATION_UPGRADE_FINAL",
+      "runtime_status": "MODEL_RUNTIME_NOT_VERIFIED",
+      "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE"
     }
   ]
 }

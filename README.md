@@ -72,11 +72,10 @@ Product implementation work proceeds on development branches after this frozen p
 
 ## Current implementation status
 
-- Current product package version: 1.0.2
-- G5: `G5_R2_STRENGTHENED` for 100/100 products
-- G9: `G9_R2_PRE_RELEASE_ACCEPTED` for 100/100 products
-- GitHub package state: GITHUB_PACKAGE_V1.0.2_PRE_RELEASE_READY
-- Agent Chinese profession identities: 20/20
+- Current product package version: 1.1.0
+- Deep upgrade: 100/100
+- Contract and scenario tested: 100/100
 - Runtime: MODEL_RUNTIME_NOT_VERIFIED
 - WorkBuddy validation: WORKBUDDY_VALIDATION_NOT_IN_SCOPE
-- Acceptance evidence: [G5_G9_R2_1.0.2_FINAL](G5_G9_R2_1.0.2_FINAL/FINAL_ACCEPTANCE_REPORT.md)
+- Acceptance: [EDUCATION_UPGRADE_FINAL](EDUCATION_UPGRADE_FINAL/FINAL_ACCEPTANCE_REPORT.md)
+
