@@ -1,0 +1,15 @@
+{
+  "verified_at": "2026-11-09T10:04:51.567240+00:00",
+  "repository_index_rows": 130,
+  "release_matrix_rows": 130,
+  "json_repository_rows": 130,
+  "skill_count": 97,
+  "agent_count": 33,
+  "original_100_index_rows_preserved": true,
+  "original_100_release_rows_preserved": true,
+  "duplicate_product_ids": 0,
+  "duplicate_repositories": 0,
+  "index_csv_sha256": "30217FFB56021DA986E4787A445E93022E5DDD7259B6405BC07B19D6EFA39560",
+  "release_matrix_sha256": "6BBE0039C8EEBE6DB5DF13EB40D0542A77D993FFBF87EC0313041F952DCB290C",
+  "status": "PASS"
+}

@@ -1,5 +1,15 @@
 # Changelog
 
+## Education Ecosystem 130 v2.0.0 - 2026-11-09
+
+- Added 17 Skills and 13 Agents as 30 independent public GitHub repositories.
+- Published 30 `product-v1.0.0` GitHub Releases with downloadable ZIP assets.
+- Verified 30 remote Commit/Tree pairs and 30 downloaded asset SHA-256 values.
+- Preserved the original 100 repository source trees, versions, history, and frozen baseline manifest.
+- Added 130-product repository index, release matrix, and full ecosystem matrix.
+- WorkBuddy installation, model invocation, review, and publication remain `NOT_EXECUTED`.
+- Generative model output remains `MODEL_RUNTIME_NOT_VERIFIED`.
+
 ## Education 1.1.0 - 2026-11-08
 
 - Completed deep upgrade for all 100 education products.
@@ -56,14 +66,3 @@
 - Local package/contract validation: 100 PASS.
 - WorkBuddy real parsing, installation, invocation, review, and publication: not verified.
 - Added the final acceptance report after a fresh 100-repository remote audit.
-
-
-
-
-
-
-
-
-
-
-

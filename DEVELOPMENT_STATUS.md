@@ -1,5 +1,21 @@
 # 教培100款产品研发状态
 
+## 130款生态当前状态（2026-11-09）
+
+- 产品总数：130
+- Skill：97
+- Agent：33
+- 原100款：保留`PACKAGE_READY`及原历史索引，不修改源码或版本
+- 新增30款：17 Skill + 13 Agent，全部`PUBLIC_RELEASE_VERIFIED`
+- GitHub Release资产：30/30下载并SHA-256复核
+- 本地契约与结构测试：130/130 PASS
+- 生成式模型真实运行：`MODEL_RUNTIME_NOT_VERIFIED`
+- WorkBuddy安装、调用、审核和上架：0/130，`NOT_EXECUTED`
+
+新增业务中心分布：09 合规与风险中心 5款；10 教学质量与学习证据中心 6款；11 学员成功与家庭服务中心 4款；12 经营决策与财务规划中心 5款；13 组织与人才效能中心 3款；14 客户洞察与渠道运营中心 2款；15 数字治理与AI合规中心 3款；16 课程资产与知识产权中心 2款。
+
+以下保留原100款开发阶段的历史记录。
+
 - 当前版本：`1.1.0`
 - 深度升级：100/100
 - Skill：80/80
@@ -113,4 +129,3 @@
 | JLZ-EDU-SK-080 | 多校区标准对比 | Skill | 1.1.0 | EDUCATION_1.1.0_PRE_RELEASE_ACCEPTED | [ZIP](https://github.com/jinlize-tech/edu-multi-campus-standard-comparator/blob/main/dist/edu-multi-campus-standard-comparator-v1.1.0.zip) |
 | JLZ-EDU-AG-019 | 校区标准化体系建设 | Agent | 1.1.0 | EDUCATION_1.1.0_PRE_RELEASE_ACCEPTED | [ZIP](https://github.com/jinlize-tech/edu-campus-standardization-agent/blob/main/dist/edu-campus-standardization-agent-v1.1.0.zip) |
 | JLZ-EDU-AG-020 | 多校区运营协同 | Agent | 1.1.0 | EDUCATION_1.1.0_PRE_RELEASE_ACCEPTED | [ZIP](https://github.com/jinlize-tech/edu-multi-campus-operations-agent/blob/main/dist/edu-multi-campus-operations-agent-v1.1.0.zip) |
-

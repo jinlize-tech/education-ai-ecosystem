@@ -2,16 +2,16 @@
 
 Jinlize Education AI is an independent education-sector AI product system for training and education organizations, principals, teachers, course consultants, academic operations staff, HR staff, finance staff, and multi-campus managers.
 
-The ecosystem contains **100 planned products**: **80 Skills** and **20 Agents**, each managed in an independent repository. All 101 education repositories, including this hub, use **Apache-2.0**.
+The ecosystem now contains **130 products**: **97 Skills** and **33 Agents**, each managed in an independent repository. All 131 education repositories, including this hub, use **Apache-2.0**.
 
 ## Current status
 
 - Product planning: frozen at `EDUCATION_BASELINE_V1.0.0`
-- Product planning documents: 100 independent `PRODUCT_SPEC.md` files
-- Initial implementation: **100/100 PACKAGE_READY**
-- Local package/contract tests: **100/100 PASS**
-- WorkBuddy platform validation: **0/100, NOT_VERIFIED**
-- Release-ready: **0/100**
+- Product planning documents: 130 independent `PRODUCT_SPEC.md` files
+- Initial implementation: **130/130 PACKAGE_READY**
+- Local package/contract tests: **130/130 PASS**
+- WorkBuddy platform validation: **0/130, NOT_EXECUTED**
+- GitHub Release verified: **30/130**
 
 The repositories contain installable WorkBuddy-oriented package candidates. Local tests prove package structure, contracts, deterministic calculator behavior where applicable, and safety checks. They do not prove WorkBuddy parsing, installation, model behavior, review, or publication.
 
@@ -24,7 +24,10 @@ The repositories contain installable WorkBuddy-oriented package candidates. Loca
 
 ## Planning documents
 
-- [100-product catalog](CATALOG.md)
+- [130-product catalog](CATALOG.md)
+- [Expansion 30 machine-readable index](EXPANSION_30_PRODUCTS.json)
+- [Full 130-product ecosystem matrix](ECOSYSTEM_130_PRODUCT_MATRIX.csv)
+- [Development version 2.0.0](DEVELOPMENT_VERSION_2.0.0.md)
 - [Master plan](docs/EDUCATION_PRODUCT_MASTER_PLAN.md)
 - [Product specification matrix](docs/EDUCATION_PRODUCT_SPEC_MATRIX.csv)
 - [Product specification index](docs/PRODUCT_SPEC_INDEX.md)
@@ -45,15 +48,23 @@ The repositories contain installable WorkBuddy-oriented package candidates. Loca
 | 06 | 人力组织中心 | 10 |
 | 07 | 财务运营中心 | 10 |
 | 08 | 校区标准化与多校区管理中心 | 13 |
-|  | **合计** | **100** |
+| 09 | 合规与风险中心 | 5 |
+| 10 | 教学质量与学习证据中心 | 6 |
+| 11 | 学员成功与家庭服务中心 | 4 |
+| 12 | 经营决策与财务规划中心 | 5 |
+| 13 | 组织与人才效能中心 | 3 |
+| 14 | 客户洞察与渠道运营中心 | 2 |
+| 15 | 数字治理与AI合规中心 | 3 |
+| 16 | 课程资产与知识产权中心 | 2 |
+|  | **合计** | **130** |
 
 ## License
 
 License: Apache-2.0.
 
-This repository and the 100 independent education product repositories are free and open. Anyone may use, modify, and distribute the material under Apache License 2.0. The complete legal terms are in [LICENSE](LICENSE).
+This repository and the 130 independent education product repositories are free and open. Anyone may use, modify, and distribute the material under Apache License 2.0. The complete legal terms are in [LICENSE](LICENSE).
 
-The project does not sell official paid SKUs for these 100 products. This commercial policy does not limit any right granted by Apache-2.0, including third-party commercial use or redistribution.
+The project does not sell official paid SKUs for these 130 products. This commercial policy does not limit any right granted by Apache-2.0, including third-party commercial use or redistribution.
 
 ## Organization
 
@@ -72,10 +83,11 @@ Product implementation work proceeds on development branches after this frozen p
 
 ## Current implementation status
 
-- Current product package version: 1.1.0
+- Original 100 product package version: 1.1.0
 - Deep upgrade: 100/100
+- Expansion 30 GitHub release verification: 30/30
 - Contract and scenario tested: 100/100
 - Runtime: MODEL_RUNTIME_NOT_VERIFIED
-- WorkBuddy validation: WORKBUDDY_VALIDATION_NOT_IN_SCOPE
+- Original 100 WorkBuddy validation: WORKBUDDY_VALIDATION_NOT_IN_SCOPE
+- Expansion 30 WorkBuddy validation: NOT_EXECUTED
 - Acceptance: [EDUCATION_UPGRADE_FINAL](EDUCATION_UPGRADE_FINAL/FINAL_ACCEPTANCE_REPORT.md)
-
