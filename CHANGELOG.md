@@ -1,5 +1,13 @@
 # Changelog
 
+## Education Ecosystem 130 v2.0.1 - 2026-11-09
+
+- Repaired README, usage, installation and package metadata for all 30 expansion products.
+- Preserved every historical `product-v1.0.0` release.
+- Published and verified 30 `product-v1.0.1` patch releases.
+- Replaced company-brand `plugin.json` author names in 13 Agent packages with a neutral maintainer name.
+- No core workflow, schema, deterministic calculation or original-100 product changes.
+
 ## Education Ecosystem 130 v2.0.0 - 2026-11-09
 
 - Added 17 Skills and 13 Agents as 30 independent public GitHub repositories.

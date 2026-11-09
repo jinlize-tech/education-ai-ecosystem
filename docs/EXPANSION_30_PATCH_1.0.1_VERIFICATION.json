@@ -1,0 +1,14 @@
+{
+  "verified_at": "2026-11-09T12:11:12.404472+00:00",
+  "product_count": 30,
+  "version": "1.0.1",
+  "skill_count": 17,
+  "agent_count": 13,
+  "old_releases_preserved": 30,
+  "new_releases_verified": 30,
+  "plugin_authors_changed": 13,
+  "core_logic_unchanged": true,
+  "old_100_index_rows_preserved": true,
+  "old_100_release_rows_preserved": true,
+  "status": "PASS"
+}
